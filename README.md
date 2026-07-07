@@ -11,7 +11,7 @@ your agent makes, you should be able to read exactly what it does, not just trus
 vendor's word for it.
 
 You're free to read, run, and modify this code for your own use, including
-commercially — guard your own agents, at your own company, no strings attached. What
+commercially (Using the Cadive-guard to block your agents going rogue, in your business. Comercially DOES NOT mean you get to distribute it) — guard your own agents, at your own company, no strings attached. What
 you can't do is hand it (as-is or modified) to someone else as part of a product or
 service you give them — that includes an unrelated product, not just a competing one.
 If you want to build that in, talk to us first — see [License](#license) below.
