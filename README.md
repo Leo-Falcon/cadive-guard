@@ -10,10 +10,11 @@ question. The source is public on purpose: if something is intercepting every to
 your agent makes, you should be able to read exactly what it does, not just trust a
 vendor's word for it.
 
-You're free to use, copy, modify, and distribute this code, including commercially. The
-one thing the license doesn't allow is taking it and turning it into your own competing
-guard/agent-security product, or reselling it under a new name — see [License](#license)
-below.
+You're free to read, run, and modify this code for your own use, including
+commercially — guard your own agents, at your own company, no strings attached. What
+you can't do is hand it (as-is or modified) to someone else as part of a product or
+service you give them — that includes an unrelated product, not just a competing one.
+If you want to build that in, talk to us first — see [License](#license) below.
 
 The detection logic itself (the rules engine, anomaly detection, and CADIVE's paid
 features) lives in the CADIVE backend — see [cadive.net](https://cadive.net) for the full
@@ -96,12 +97,13 @@ python -m pytest          # no backend needed — the client is mocked
 
 ## License
 
-[Cadive Open License v1.0](LICENSE) — free to use, copy, modify, and distribute,
-including commercially. Not allowed: using this (as-is or modified) to build a
-competing agent-guarding product or service, reselling it under a new name, or
-rebranding a fork as an official Cadive release. Violating those terms ends your
-license immediately and any further use is copyright infringement — see the LICENSE
-file for the full terms.
+[Cadive Open License v1.1](LICENSE) — free to use, copy, and modify for your own
+purposes, including commercially. Not allowed without Cadive's written consent:
+shipping the Software (as-is or modified) to a third party as part of any product or
+service you offer — related or unrelated to CADIVE — building a competing
+agent-guarding product, reselling it under a new name, or rebranding a fork as an
+official Cadive release. Violating those terms ends your license immediately and any
+further use is copyright infringement — see the LICENSE file for the full terms.
 
 The CADIVE backend (detection rules, safeguard catalog, and paid features) is closed
 source and not covered by this license.
