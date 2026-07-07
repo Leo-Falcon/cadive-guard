@@ -1,0 +1,115 @@
+Cadive Open License (COL) v1.0
+Copyright (c) 2026 Cadive. All rights reserved.
+
+This license is written to be as open as possible: you can use, copy,
+modify, merge, and distribute this software, for personal or commercial
+purposes, for free. The one thing you may not do is take it (as-is or
+modified) and turn it into your own competing product, resell it, or
+pass it off as something official from Cadive. See Section 2.
+
+1. GRANT OF RIGHTS
+
+Subject to the conditions in Section 2, Cadive grants you a worldwide,
+royalty-free, non-exclusive license to use, copy, modify, merge,
+publish, and distribute the Software, including for commercial purposes,
+free of charge.
+
+2. CONDITIONS
+
+  (a) No competing product or service. You may not use the Software, or
+      any modified or derivative version of it, to build, offer, or
+      support a product or service that does the same thing CADIVE
+      does (validating, guarding, or gating AI agent actions) or that
+      otherwise competes with CADIVE, whether you charge for it or not.
+
+  (b) No resale of the Software itself. You may not sell, sublicense, or
+      otherwise charge for the Software, or a derivative of it, as a
+      standalone product -- for example, packaging it under a new name
+      and selling access to it.
+
+  (c) No rebranding or false attribution. You may not use "Cadive",
+      "CADIVE", "cadive-guard", or any confusingly similar name, mark,
+      or branding to title, market, or describe the Software or any
+      derivative of it, and you may not represent a modified version as
+      an official Cadive release. A fork must clearly identify itself as
+      an unofficial, independent derivative and may not claim or imply
+      Cadive's endorsement.
+
+  (d) Keep the notices. Every copy or substantial portion of the
+      Software -- modified or not -- must retain the copyright notice
+      above, this License, and clear attribution to the original
+      project (https://github.com/Leo-Falcon/cadive-guard).
+
+Contributing a fix or improvement back to the original project via a
+pull request is not required, but it's the preferred way to share
+changes with everyone rather than maintaining a private fork.
+
+3. WHAT THIS DOES NOT RESTRICT
+
+To be explicit about how far Section 2 goes and no further: you may run
+the Software inside your own company, product, or infrastructure for
+any purpose that isn't itself a competing agent-guarding product; you
+may modify it for your own needs, in any way, for any reason; and you
+may distribute your modified version, provided it complies with
+Section 2.
+
+4. REQUESTING AN EXCEPTION
+
+If you want to do something Section 2 doesn't allow -- for example,
+building on this to offer a competing product, or using the Cadive name
+for something -- ask first. Contact Cadive through the channels listed
+at https://cadive.net. An exception is only valid if given in writing.
+
+5. TERMINATION
+
+This License, and every right granted under it, terminates
+AUTOMATICALLY and IMMEDIATELY, without notice, the moment you violate
+any condition in Section 2. Upon termination:
+
+  (a) you must immediately stop using, copying, and distributing the
+      Software and any derivative of it;
+  (b) any further use, copying, or distribution after termination is
+      unauthorized and constitutes copyright infringement, independent
+      of and in addition to any breach of this License; and
+  (c) Cadive reserves every remedy available under applicable copyright
+      and other law, including injunctive relief, actual and statutory
+      damages where available, and recovery of costs and attorneys'
+      fees.
+
+Termination of this License does not waive or limit any other right or
+remedy Cadive may have at law or in equity.
+
+6. NO TRADEMARK LICENSE
+
+This License does not grant you any right to use Cadive's names, logos,
+or trademarks, except as strictly necessary to comply with the
+attribution requirement in Section 2(d).
+
+7. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL CADIVE BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+8. GENERAL
+
+If any provision of this License is held unenforceable, the remaining
+provisions remain in full force. This License is the entire agreement
+between you and Cadive regarding the Software, and supersedes any prior
+agreement or understanding regarding it. Cadive may publish revised
+versions of this License; a revision applies only to versions of the
+Software released under it, never retroactively.
+
+---
+
+This is a source-available license with an open-source-style grant plus
+a non-compete condition -- similar in spirit to licenses like PolyForm
+Shield or Apache-2.0-plus-Commons-Clause. It is not an OSI-approved
+"open source" license, because the OSI definition requires permitting
+competing commercial use, which Section 2(a) intentionally does not.
+
+Questions, or need an exception under Section 4? See https://cadive.net.
